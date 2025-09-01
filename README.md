@@ -12,23 +12,24 @@ This project uses **OpenCV** and **MediaPipe** to detect pushups in real-time vi
    git clone https://github.com/bazilurrb/sports-SIH-project.git
    cd sports-SIH-project
 2. **Create a virtual environment**
-    ''''bash
+    ```bash
     python -m venv venv
 3. **Activate the virtual environment**
     On Windows
-        ''''bash
+        ```bash
         venv\Scripts\activate
     On Mac/Linux
-        ''''bash
+        ```bash
         source venv/bin/activate
 4. **Install Dependencies**
-    ''''bash
+    ```bash
     pip isntall -r requirements.txt
 5. **Usage**
     Run the pushup detecction script
-    ''''bash
+    ```bash
     python Pushup.py
 6. **Project Structure**
+```bash
 sports-SIH-project/
 │── Pushup.py          # Main script for pushup detection
 │── requirements.txt   # List of dependencies
