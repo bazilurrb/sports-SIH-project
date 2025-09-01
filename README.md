@@ -15,12 +15,12 @@ This project uses **OpenCV** and **MediaPipe** to detect pushups in real-time vi
     ```bash
     python -m venv venv
 3. **Activate the virtual environment**
-    On Windows
-        ```bash
-        venv\Scripts\activate
-    On Mac/Linux
-        ```bash
-        source venv/bin/activate
+On Windows
+     ```bash
+    venv\Scripts\activate
+On Mac/Linux
+    ```bash
+    source venv/bin/activate
 4. **Install Dependencies**
     ```bash
     pip isntall -r requirements.txt
