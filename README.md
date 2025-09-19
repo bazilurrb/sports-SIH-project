@@ -25,7 +25,7 @@ This project uses **OpenCV** and **MediaPipe** to detect pushups in real-time vi
     ```bash
     pip isntall -r requirements.txt
 5. **Usage**
-    Run the pushup detecction script
+Run the pushup detecction script
     ```bash
     python Pushup.py
 6. **Project Structure**
